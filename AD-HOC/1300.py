@@ -8,5 +8,3 @@ for line in sys.stdin:
         print("Y")
     else:
         print("N")
-
-
