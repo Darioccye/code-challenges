@@ -1,6 +1,0 @@
-a = int(input())
-b = int(input())
-
-c = a+b
-
-print("SOMA = %s" % c)
